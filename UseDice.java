@@ -3,7 +3,7 @@
 // Date created: 2014-06-10
 // Last modified: 2016-09-24
 // Author: Bjørn Christensen 
-// Modified by: Agner Fog
+// Modified by: Gruppe 20
 
 // Description:
 // This program simulates roll of a die
